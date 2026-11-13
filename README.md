@@ -1,10 +1,10 @@
-# RVC — instaladores
+# RVC 
 
-Instaladores do RVC (voz e transmissão de tela em rede local virtual). O código não fica aqui.
+Releases do RVC (voz e transmissão de tela em rede local virtual). 
 
 ## Como instalar
-1. Entre na rede **Radmin VPN** do seu grupo e deixe o Radmin ligado.
-2. Baixe o `rvc_..._x64-setup.exe` da [versão mais recente](../../releases/latest) e rode.
+1. Crie ou entre em uma rede **Radmin VPN**.
+2. Baixe e execute o `rvc_..._x64-setup.exe` da [versão mais recente](../../releases/latest).
    - Se aparecer **"O Windows protegeu o seu PC"**: clique em **Mais informações** e depois em **Executar assim mesmo**.
 3. Na primeira vez, o Windows pergunta sobre o **Firewall**: marque **redes públicas e privadas** e clique em **Permitir**.
 
