@@ -1,0 +1,41 @@
+name: Relato de problema
+description: Algo no RVC não funciona como deveria
+labels: [problema]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por avisar. O RVC é um projeto independente: problemas com o Radmin VPN em si vão para o suporte do Radmin.
+  - type: textarea
+    id: oque
+    attributes:
+      label: O que aconteceu?
+      description: O que você fez, o que esperava e o que aconteceu. Prints ajudam.
+    validations:
+      required: true
+  - type: dropdown
+    id: quem
+    attributes:
+      label: Acontece com quem?
+      options: [Só comigo, Com um amigo específico, Com todo mundo, Não sei]
+    validations:
+      required: true
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do RVC
+      description: O número no canto inferior direito da janela (por exemplo 0.4.0).
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows
+      options: [Windows 11, Windows 10, Outro]
+    validations:
+      required: true
+  - type: dropdown
+    id: placa
+    attributes:
+      label: Placa de vídeo (se for problema na transmissão)
+      options: [Não é na transmissão, AMD, NVIDIA, Intel, Não sei]

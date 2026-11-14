@@ -1,0 +1,11 @@
+name: Ideia
+description: Sugira algo novo para o RVC
+labels: [ideia]
+body:
+  - type: textarea
+    id: ideia
+    attributes:
+      label: Qual é a ideia?
+      description: Conte o que você gostaria que o RVC fizesse e por que seria útil.
+    validations:
+      required: true
