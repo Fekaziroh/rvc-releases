@@ -2,7 +2,23 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
-## RVC 0.4.0 (experimental)
+## RVC! 0.5.0 (experimental)
+
+### Novidades
+- Status: disponível, ausente, ocupado e invisível. Ausente liga sozinho depois de 10 min sem mexer no PC.
+- Fechar a janela deixa o RVC! na bandeja. Dá para abrir junto com o Windows.
+- Mudar qualidade, quadros, tela e som do PC sem parar a live.
+- Foto do grupo.
+- Sons do app.
+- Menu próprio no botão direito: chamar, entrar na sala, volume e silenciar só para mim.
+- Aba Aplicativo: atualizações, versões experimentais, notas de versão, voltar para outra versão, reparar e remover.
+- Relatório e registros para diagnosticar problemas.
+
+### Correções
+- O app se recupera sozinho se a janela travar.
+- Chamar alguém funciona mesmo quando nenhum dos dois está numa sala.
+
+## RVC 0.4.0
 
 ### Novidades
 
