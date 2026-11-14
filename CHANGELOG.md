@@ -22,6 +22,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - A versão fica discreta no canto inferior direito e acende quando há atualização.
 - Detalhes técnicos (Radmin, IP, versão) saíram da tela principal e foram para as Configurações.
 - Modo calmo, sem animações.
+- No mixer de volume do Windows, o som do app aparece como "RVC", com o ícone dele.
 
 ## RVC 0.3.1
 
