@@ -2,6 +2,20 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.1.0 (experimental)
+
+### Novidades
+- Conversa na sala e conversa privada, com entregue e visto.
+- Mensagem para quem está offline chega quando a pessoa abrir o app.
+- Arquivos, imagens, vídeos, áudios e emojis na conversa.
+- Câmera.
+- Apertar para falar, com a tecla que você quiser.
+- Destacar uma tela, parar de ver uma live, janela flutuante e abrir em outra janela.
+- Mudar o tamanho da conversa e das telas.
+- Mover alguém para outra sala ou tirar da sala.
+- As três colunas recolhem.
+- Bio no perfil e amigos offline com "visto por último".
+
 ## RVC! 1.0.5
 
 ### Novidades
