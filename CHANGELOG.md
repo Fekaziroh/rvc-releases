@@ -15,6 +15,8 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - Relatório e registros para diagnosticar problemas.
 
 ### Correções
+- O app fechava sozinho ao transmitir com o som do PC ligado.
+- A live gasta bem menos internet: tela parada quase nada, e 1080p60 com até 6 Mbps.
 - O app se recupera sozinho se a janela travar.
 - Chamar alguém funciona mesmo quando nenhum dos dois está numa sala.
 
