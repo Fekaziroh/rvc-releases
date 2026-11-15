@@ -2,6 +2,25 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.0.5 (experimental)
+
+### Novidades
+- Status: disponível, ausente, ocupado e invisível.
+- Fechar a janela deixa o RVC! na bandeja. Dá para abrir junto com o Windows.
+- Mudar qualidade, quadros, tela e som do PC sem parar a live.
+- Foto do grupo e sons do app.
+- Menu próprio no botão direito: chamar, entrar na sala, volume e silenciar só para mim.
+- Aba Aplicativo: atualizações, versões experimentais, notas de versão, voltar para outra versão, reparar e remover.
+- Clicar na versão procura atualização na hora. Clicar no bonequinho abre o Sobre.
+
+### Desempenho
+- Parado, o app gasta muito menos processador, placa de vídeo e memória.
+- A live gasta bem menos internet: tela parada quase nada, e 1080p60 com até 6 Mbps.
+
+### Correções
+- O app fechava sozinho ao transmitir com o som do PC ligado.
+- O app se recupera sozinho se a janela travar.
+
 ## RVC! 0.5.0 (experimental)
 
 ### Novidades
