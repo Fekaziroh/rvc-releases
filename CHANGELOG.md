@@ -2,6 +2,25 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.1.1 (experimental)
+
+### Novidades
+- Conversa de cada sala sem precisar entrar nela.
+- Imagens abrem em destaque, com zoom.
+- Editar, apagar e reagir a mensagens.
+- Seletor de emojis novo, também na bio.
+- Clicar na sua foto mostra seu perfil e o status.
+- Som ao apertar e soltar a tecla de falar.
+- As bolhas do fundo acompanham o mouse (dá para deixar paradas em Aparência).
+- O meio também recolhe dentro de uma sala.
+
+### Desempenho
+- Parado, o app gasta muito menos.
+
+### Correções
+- O app congelava ao apertar Alt sozinho.
+- Sombras cortadas e cartões que mudavam de tamanho na sala.
+
 ## RVC! 1.1.0 (experimental)
 
 ### Novidades
