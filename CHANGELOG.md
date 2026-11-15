@@ -2,7 +2,7 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
-## RVC! 1.0.5 (experimental)
+## RVC! 1.0.5
 
 ### Novidades
 - Status: disponível, ausente, ocupado e invisível.
