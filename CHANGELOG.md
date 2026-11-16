@@ -2,7 +2,17 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
-## RVC! 1.1.1 (experimental)
+## RVC! 1.1.2
+
+### Novidades
+- Prévia de links na conversa (YouTube e sites).
+- Responder, encaminhar, fixar e copiar mensagens.
+- Mensagens novas aparecem com número na barra de tarefas e na bandeja, com som. Dá para silenciar uma conversa (botão direito) ou todas (Aplicativo).
+- Renomear salas (botão direito na sala).
+- As bolhas do fundo nascem em lugares e tamanhos diferentes cada vez que o app abre. Clique numa bolha para estourar.
+- Os dados da live só aparecem com o mouse em cima da tela.
+
+## RVC! 1.1.1
 
 ### Novidades
 - Conversa de cada sala sem precisar entrar nela.
@@ -21,7 +31,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - O app congelava ao apertar Alt sozinho.
 - Sombras cortadas e cartões que mudavam de tamanho na sala.
 
-## RVC! 1.1.0 (experimental)
+## RVC! 1.1.0
 
 ### Novidades
 - Conversa na sala e conversa privada, com entregue e visto.
