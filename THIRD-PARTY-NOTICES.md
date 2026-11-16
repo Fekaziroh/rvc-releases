@@ -15,6 +15,9 @@ O instalador do RVC inclui ou usa os projetos abaixo. Cada um continua sob a lic
 | base64 | Miniaturas do seletor de telas | MIT ou Apache-2.0 | https://github.com/marshallpierce/rust-base64 |
 | Microsoft Edge WebView2 Runtime | Mostra a interface; baixado do site da Microsoft quando falta | Licença da Microsoft | https://developer.microsoft.com/microsoft-edge/webview2/ |
 | NSIS | Instalador | zlib/libpng | https://nsis.sourceforge.io |
+| Twemoji | Desenho dos emojis (fonte embutida) | Gráficos: CC-BY 4.0, © Twitter, Inc. e colaboradores | https://github.com/jdecked/twemoji |
+| ureq | Prévia de links e clima | MIT ou Apache-2.0 | https://github.com/algesten/ureq |
+| Open-Meteo | Dados do clima (opcional, só se a pessoa ligar) | Dados: CC-BY 4.0 | https://open-meteo.com |
 | Ícones de interface (traço) | Botões de microfone, fone, tela etc., desenhados no estilo do Lucide | ISC | https://lucide.dev |
 
 O Radmin VPN é um produto da Famatech e não vem com o RVC: cada pessoa instala o Radmin pelo site oficial.
