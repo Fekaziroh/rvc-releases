@@ -29,12 +29,15 @@ Inclui tudo da 1.1.3.
 - Em janela pequena, as colunas se ajustam.
 - O tempo de offline fica igual na lista e no perfil ("Offline há 5 min").
 - Sua foto no painel de baixo agora segue o formato redondo e a cor escolhida.
+- A foto de quem está offline aparece também no chat.
+- Esc fecha a conversa aberta e a aba do meio.
 
 ### Desempenho
 - Conversas longas atualizam mais rápido.
 
 ### Aparência e personalização
 - Canais com uma sombra leve e um brilho em cima.
+- Perfil transparente com o topo de vidro.
 
 ## RVC! 1.1.3 (experimental)
 
