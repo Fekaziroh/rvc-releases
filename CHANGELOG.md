@@ -10,11 +10,13 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - Relógio e clima no canto de baixo (opcional).
 - Menu do clipe: documento, fotos e vídeos, câmera e áudio.
 - Clicar na foto ou no nome de alguém no chat abre o perfil.
-- Você também aparece na lista de online.
-- Botão direito no fundo: tema, bolhas e ícone.
+- Cor do perfil automática (tirada da foto) ou sem cor.
+- Você também aparece na lista de online. No modo invisível, aparece no offline.
+- Botão direito no fundo: tema, bolhas e ícone. Botão direito na versão: novidades.
+- O ícone escolhido também aparece na barra de tarefas e no menu Iniciar.
 - Fotos de quem está offline ficam guardadas (30 pessoas, dá para mudar em Aplicativo).
 - Cada som do app liga e desliga sozinho (Voz e câmera).
-- Sons novos: microfone, troca de sala, digitação, fim de live e chamando.
+- Sons novos: microfone, troca de sala, digitação, bolhas, fim de live e chamando.
 - A configuração inicial também pergunta a bio, as bolhas, o apertar para falar, os avisos e os sons.
 
 ### Correções
@@ -22,18 +24,19 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - Foto e bio de quem sai continuam aparecendo.
 - Depois de atualizar, o app volta com a janela aberta.
 - Enter confirma ao renomear (antes cancelava).
+- Fechar o seletor de foto não fecha mais as Configurações.
 - O botão de emoji da bio não abria.
 - O som de entrar na sala engasgava.
-- Os avisos aparecem com o nome do RVC!.
+- Em janela pequena, a lista de online não vai mais para baixo das salas.
+- O mesmo aviso não se repete empilhado.
 
 ### Aparência e personalização
+- Barra de título própria, com a cara do app.
 - O meio fica fechado fora de sala e abre sozinho ao entrar num canal ou abrir uma conversa.
-- Botões de janela no estilo XP (Aparência › Janelas).
 - Emojis no estilo Twemoji.
-- Botões Gel e formato da foto: arredondado ou redondo.
-- O ícone da barra de tarefas e da bandeja acompanha a cor escolhida.
+- Botões Gel em todos os botões e formato da foto: arredondado ou redondo.
 - Ícones com uma animação leve ao passar o mouse.
-- Bolhas novas, com um estouro mais bonito e sem som.
+- Bolhas mais discretas, com estouro variado.
 - Perfil e menus não ficam mais transparentes por cima do que está atrás.
 
 ## RVC! 1.1.2
@@ -46,7 +49,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - As bolhas do fundo nascem em lugares e tamanhos diferentes cada vez que o app abre. Clique numa bolha para estourar.
 - Os dados da live só aparecem com o mouse em cima da tela.
 
-## RVC! 1.1.1
+## RVC! 1.1.1 (experimental)
 
 ### Novidades
 - Conversa de cada sala sem precisar entrar nela.
@@ -65,7 +68,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - O app congelava ao apertar Alt sozinho.
 - Sombras cortadas e cartões que mudavam de tamanho na sala.
 
-## RVC! 1.1.0
+## RVC! 1.1.0 (experimental)
 
 ### Novidades
 - Conversa na sala e conversa privada, com entregue e visto.
@@ -116,7 +119,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - O app se recupera sozinho se a janela travar.
 - Chamar alguém funciona mesmo quando nenhum dos dois está numa sala.
 
-## RVC 0.4.0
+## RVC 0.4.0 (experimental)
 
 ### Novidades
 
@@ -138,7 +141,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - Modo calmo, sem animações.
 - No mixer de volume do Windows, o som do app aparece como "RVC", com o ícone dele.
 
-## RVC 0.3.1
+## RVC 0.3.1 (experimental)
 
 ### Novidades
 
@@ -149,7 +152,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 
 - Instalador com os dados do editor, para diminuir alarmes falsos do antivírus.
 
-## RVC 0.3.0
+## RVC 0.3.0 (experimental)
 
 ### Novidades
 
@@ -157,7 +160,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - Ícones de microfone e de fone, e a opção de parar de ouvir todo mundo.
 - Chamada privada discreta: para os outros, quem está numa chamada aparece só como "online".
 
-## RVC 0.2.0
+## RVC 0.2.0 (experimental)
 
 ### Novidades
 
@@ -165,7 +168,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 - Seletor próprio de telas e janelas, sem a barra "está compartilhando" do navegador.
 - Som do computador na transmissão, sem a voz dos amigos.
 
-## RVC 0.1.0
+## RVC 0.1.0 (experimental)
 
 ### Novidades
 
