@@ -9,6 +9,7 @@ Inclui tudo da 1.1.3.
 ### Novidades
 - Cor do perfil: Auto (tirada da foto), Cor (com conta-gotas e cores recentes) ou Transparente.
 - Ajustar a foto (zoom e posição) ao escolher, e lápis em cima da foto para trocar.
+- Foto em PNG com fundo transparente, e opção de tirar a borda da foto.
 - Busca nos emojis.
 - Cinco sons de digitar: Padrão, Pesado, Bolha, Vidro e Gota (Voz e câmera).
 - Envelope nas conversas, para mostrar ou esconder a lista.
@@ -26,6 +27,8 @@ Inclui tudo da 1.1.3.
 - O alerta do microfone aparece só na bolinha amarela.
 - Entregue e visto aparecem só na última mensagem de uma sequência.
 - Em janela pequena, as colunas se ajustam.
+- O tempo de offline fica igual na lista e no perfil ("Offline há 5 min").
+- Sua foto no painel de baixo agora segue o formato redondo e a cor escolhida.
 
 ### Desempenho
 - Conversas longas atualizam mais rápido.
