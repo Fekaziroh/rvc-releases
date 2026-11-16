@@ -2,6 +2,40 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.1.3 (experimental)
+
+### Novidades
+- Cutucar: botão direito numa pessoa. A janela dela treme e toca um som.
+- Mensagens com o app minimizado aparecem num aviso do RVC! no canto da tela, nas cores do tema.
+- Relógio e clima no canto de baixo (opcional).
+- Menu do clipe: documento, fotos e vídeos, câmera e áudio.
+- Clicar na foto ou no nome de alguém no chat abre o perfil.
+- Você também aparece na lista de online.
+- Botão direito no fundo: tema, bolhas e ícone.
+- Fotos de quem está offline ficam guardadas (30 pessoas, dá para mudar em Aplicativo).
+- Cada som do app liga e desliga sozinho (Voz e câmera).
+- Sons novos: microfone, troca de sala, digitação, fim de live e chamando.
+- A configuração inicial também pergunta a bio, as bolhas, o apertar para falar, os avisos e os sons.
+
+### Correções
+- Mensagem se perdia quando o app do outro tinha acabado de reiniciar.
+- Foto e bio de quem sai continuam aparecendo.
+- Depois de atualizar, o app volta com a janela aberta.
+- Enter confirma ao renomear (antes cancelava).
+- O botão de emoji da bio não abria.
+- O som de entrar na sala engasgava.
+- Os avisos aparecem com o nome do RVC!.
+
+### Aparência e personalização
+- O meio fica fechado fora de sala e abre sozinho ao entrar num canal ou abrir uma conversa.
+- Botões de janela no estilo XP (Aparência › Janelas).
+- Emojis no estilo Twemoji.
+- Botões Gel e formato da foto: arredondado ou redondo.
+- O ícone da barra de tarefas e da bandeja acompanha a cor escolhida.
+- Ícones com uma animação leve ao passar o mouse.
+- Bolhas novas, com um estouro mais bonito e sem som.
+- Perfil e menus não ficam mais transparentes por cima do que está atrás.
+
 ## RVC! 1.1.2
 
 ### Novidades
