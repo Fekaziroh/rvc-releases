@@ -2,6 +2,37 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.1.4 (experimental)
+
+Inclui tudo da 1.1.3.
+
+### Novidades
+- Cor do perfil: Auto (tirada da foto), Cor (com conta-gotas e cores recentes) ou Transparente.
+- Ajustar a foto (zoom e posição) ao escolher, e lápis em cima da foto para trocar.
+- Busca nos emojis.
+- Cinco sons de digitar: Padrão, Pesado, Bolha, Vidro e Gota (Voz e câmera).
+- Envelope nas conversas, para mostrar ou esconder a lista.
+- Na sala, dá para esconder as pessoas e deixar só o chat.
+- Tempo de chamada no cartão de voz e ping ao passar o mouse nas barrinhas.
+- Botão direito no fundo: tema, bolhas, botões e ícone numa paletinha.
+
+### Correções
+- Só quem está na sala consegue assistir à sua live. Quem transmite e quem assiste precisam estar na 1.1.4.
+- Programas e scripts recebidos no chat não abrem direto: aparecem na pasta, com o aviso do Windows.
+- Ninguém consegue mais editar ou apagar mensagens de outra pessoa.
+- A prévia de links não acessa endereços da sua rede (roteador, outros PCs).
+- O app aguenta uma enxurrada de mensagens na rede sem travar.
+- O status muda clicando nele no seu perfil, e o perfil fecha ao abrir o menu.
+- O alerta do microfone aparece só na bolinha amarela.
+- Entregue e visto aparecem só na última mensagem de uma sequência.
+- Em janela pequena, as colunas se ajustam.
+
+### Desempenho
+- Conversas longas atualizam mais rápido.
+
+### Aparência e personalização
+- Canais com uma sombra leve e um brilho em cima.
+
 ## RVC! 1.1.3 (experimental)
 
 ### Novidades
