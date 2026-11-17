@@ -14,8 +14,20 @@ Inclui tudo da 1.1.4.
 - Conversas: "3 novas" com o envelope fechado.
 - Live de quem está em outra versão mostra um aviso no lugar.
 - Volume da live com porcentagem.
+- Chat embaixo da live: a live ocupa o espaço e as pessoas viram fotinhas, que aparecem com o mouse em cima ou quando alguém fala.
+- Duração da chamada na frente do nome da sala, para todo mundo.
+
+### Correções
+- Configuração inicial não cabia em tela de notebook.
+- Volume da pessoa saindo do card.
+- Pipocos no som do PC durante a live.
+- Mudar o tamanho da janela transmitida quebrava a prévia e a live.
+
+### Aparência e personalização
+- Janelas, menus e cartão de perfil fecham com animação.
 
 ### Desempenho
+- Live mais nítida em movimento, sem cair de qualidade com qualquer oscilação de ping.
 - Conversa longa: as mensagens antigas carregam ao rolar até o topo.
 
 ## RVC! 1.1.4 (experimental)
