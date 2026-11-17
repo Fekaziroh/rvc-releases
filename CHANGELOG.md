@@ -2,6 +2,22 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.1.5 (experimental)
+
+Inclui tudo da 1.1.4.
+
+### Novidades
+- Mencionar alguém com @: o nome completa sozinho, e a mensagem que menciona você fica destacada.
+- "Fulano está digitando" mais visível, também na lista de conversas.
+- Botão "Sair da live" na live de outra pessoa.
+- Chat ao lado ou embaixo da live.
+- Conversas: "3 novas" com o envelope fechado.
+- Live de quem está em outra versão mostra um aviso no lugar.
+- Volume da live com porcentagem.
+
+### Desempenho
+- Conversa longa: as mensagens antigas carregam ao rolar até o topo.
+
 ## RVC! 1.1.4 (experimental)
 
 Inclui tudo da 1.1.3.
