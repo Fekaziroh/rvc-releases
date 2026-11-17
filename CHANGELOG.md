@@ -18,6 +18,7 @@ Inclui tudo da 1.1.3.
 - Botão direito no fundo: tema, bolhas, botões e ícone numa paletinha.
 
 ### Correções
+- Live em 720p (para internet mais fraca). O 90 qps saiu por enquanto.
 - Live com taxa automática: se a internet de quem transmite não aguenta, a qualidade baixa sozinha e volta a subir quando melhora. Menos banda no vídeo e no som do PC, e a voz com prioridade.
 - Só quem está na sala consegue assistir à sua live. Quem transmite e quem assiste precisam estar na 1.1.4.
 - Programas e scripts recebidos no chat não abrem direto: aparecem na pasta, com o aviso do Windows.
