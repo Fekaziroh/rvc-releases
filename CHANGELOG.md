@@ -18,6 +18,7 @@ Inclui tudo da 1.1.3.
 - Botão direito no fundo: tema, bolhas, botões e ícone numa paletinha.
 
 ### Correções
+- Live mais leve para assistir em 3 ou mais pessoas: menos banda no vídeo (como o TeamSpeak) e no som do PC, e a voz com prioridade.
 - Só quem está na sala consegue assistir à sua live. Quem transmite e quem assiste precisam estar na 1.1.4.
 - Programas e scripts recebidos no chat não abrem direto: aparecem na pasta, com o aviso do Windows.
 - Ninguém consegue mais editar ou apagar mensagens de outra pessoa.
@@ -31,6 +32,12 @@ Inclui tudo da 1.1.3.
 - Sua foto no painel de baixo agora segue o formato redondo e a cor escolhida.
 - A foto de quem está offline aparece também no chat.
 - Esc fecha a conversa aberta e a aba do meio.
+- Links do chat abrem direto no navegador.
+- O clima volta sozinho ao abrir o app.
+- Trocar de tema não faz mais os ícones da área de trabalho piscarem.
+- O aviso de microfone sem som aparece só para o dono do microfone.
+- A ajuda (?) das Configurações aparece na frente da janela.
+- A cutucada também treme o app com a janela maximizada.
 
 ### Desempenho
 - Conversas longas atualizam mais rápido.
@@ -38,6 +45,8 @@ Inclui tudo da 1.1.3.
 ### Aparência e personalização
 - Canais com uma sombra leve e um brilho em cima.
 - Perfil transparente com o topo de vidro.
+- Quem está falando fica com a borda verde também na lista de salas.
+- Tempo de chamada no fim da linha "Voz conectada".
 
 ## RVC! 1.1.3 (experimental)
 
