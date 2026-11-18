@@ -2,6 +2,31 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.2.0 (experimental)
+
+Inclui tudo da 1.1.5.
+
+### Novidades
+- Fotos vão em WebP, bem mais leves. Para mandar no original, use Documento.
+- Anexo apagado ou que não baixou: um clique baixa de novo, de quem estiver online com ele.
+- Apagar para mim, em qualquer mensagem, e Limpar conversa (botão direito na pessoa ou na sala).
+- Clicar num @nome abre o perfil da pessoa.
+- Remover da lista quem saiu do grupo (botão direito em quem está offline).
+- Player de áudio novo, com a onda do som e velocidade 1×, 1,5× e 2×.
+
+### Correções
+- Live não abria em PC sem decodificação de vídeo pela placa.
+- Fotos sobre a live piscavam quando alguém falava e mostravam o status no lugar do contorno verde.
+- Dicas do "?" ficavam atrás das configurações.
+- Contador de mensagens novas aparecia sem mensagem nenhuma.
+
+### Desempenho
+- Live por UDP: pacote perdido é pedido de novo sem travar a imagem nem o som. Se o UDP não passar, volta sozinha para o jeito antigo.
+- Fotos, vídeos e áudios acima de 10 MB e documentos só baixam quando você clica.
+
+### Aparência e personalização
+- Duração da chamada em verde.
+
 ## RVC! 1.1.5 (experimental)
 
 Inclui tudo da 1.1.4.
