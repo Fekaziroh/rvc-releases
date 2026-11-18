@@ -29,8 +29,11 @@ Inclui tudo da 1.1.5.
 - Na chamada, abrir a conversa da pessoa tirava você da tela da chamada.
 - Sombra da notificação e das lives cortada nos cantos.
 - Trocar "Live por UDP" só valia na próxima live.
+- Esc não tirava a live da tela cheia.
+- Quem ficava na chamada demorava para sair depois que o outro desligava.
 
 ### Desempenho
+- Live por UDP no Wi-Fi não perde mais qualidade à toa com pacote perdido.
 - Live por UDP: pacote perdido é pedido de novo sem travar a imagem nem o som. Se o UDP não passar, volta sozinha para o jeito antigo.
 - Fotos, vídeos e áudios acima de 10 MB e documentos só baixam quando você clica.
 
