@@ -15,6 +15,9 @@ Inclui tudo da 1.1.5.
 - Player de áudio novo, com a onda do som e velocidade 1×, 1,5× e 2×.
 - Chat na chamada privada, embaixo, como num canal.
 - Na sua live, um olho mostra quantos estão assistindo; passe o mouse para ver quem.
+- Chamada privada já aparece em Conversas, com o horário e quanto durou.
+- Quando um desliga a chamada privada, ela acaba para os dois.
+- Imagem colada ou arrastada espera antes de ir: dá para tirar ou escrever uma legenda.
 
 ### Correções
 - Live não abria em PC sem decodificação de vídeo pela placa.
@@ -22,6 +25,10 @@ Inclui tudo da 1.1.5.
 - Dicas do "?" ficavam atrás das configurações.
 - Contador de mensagens novas aparecia sem mensagem nenhuma.
 - X da janela ficava vermelho depois de voltar da bandeja.
+- Botão direito em algumas conversas não abria nada.
+- Na chamada, abrir a conversa da pessoa tirava você da tela da chamada.
+- Sombra da notificação e das lives cortada nos cantos.
+- Trocar "Live por UDP" só valia na próxima live.
 
 ### Desempenho
 - Live por UDP: pacote perdido é pedido de novo sem travar a imagem nem o som. Se o UDP não passar, volta sozinha para o jeito antigo.
@@ -32,6 +39,8 @@ Inclui tudo da 1.1.5.
 - Barra da sua live só aparece com o mouse em cima; sem ele, fica só o AO VIVO no canto.
 - Botão de fechar novo, na cor de cada tema. Com Botões Gel, vira uma gota de vidro.
 - "Som do PC" agora é "Som da tela" ou "Som da janela".
+- Chat embaixo da live por padrão.
+- Volume da live aparece ao passar o mouse no alto-falante; um clique silencia.
 
 ## RVC! 1.1.5 (experimental)
 
