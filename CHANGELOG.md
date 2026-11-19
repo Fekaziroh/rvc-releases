@@ -2,6 +2,38 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.2.1 (experimental)
+
+Inclui tudo da 1.2.0.
+
+### Novidades
+- Agora no grupo: quem está ao vivo, mensagens novas, eventos e quem chegou, no meio fora de sala.
+- Enquete e evento pelo clipe. No evento, Vou / Talvez / Não vou, aviso 15 min antes e lembrete no topo da sala.
+- GIF no chat, com o texto que você digitar animado.
+- Figurinhas: crie a partir de uma imagem; botão direito numa recebida salva nas suas.
+- Ligação nova: foto com brilho, barra do tempo para atender, Cancelar para quem liga e aviso no canto com Atender e Recusar.
+- Chamada perdida, recusada ou não atendida aparece na conversa.
+- Live repassada: com 3 ou mais assistindo, quem tem a conexão mais rápida repassa para outros.
+
+### Correções
+- Som da live estalando ou "crocante".
+- Duração da chamada diferente para cada um.
+- Mensagem inventada em nome de outra pessoa no histórico da sala (agora as mensagens são assinadas).
+- Enquete e evento sumiam em versão antiga: aparece o pedido para atualizar.
+
+### Desempenho
+- Som da live em qualidade cheia.
+- Quem assiste troca sozinho para TCP quando o UDP trava.
+- Conversa longa abre mais leve; foto de perfil menor.
+
+### Aparência e personalização
+- Fundo Céu: segue a hora e o clima, com chuva, raios, estrelas e o brilho do sol.
+- Agora no grupo e o relógio grande ligam e desligam em Aparência.
+- Configurações com controles iguais em todo canto.
+- Início mais enxuto, com quem está em cada sala.
+- Foto sem imagem na cor da pessoa.
+- Botão de recolher o meio mais discreto.
+
 ## RVC! 1.2.0 (experimental)
 
 Inclui tudo da 1.1.5.
