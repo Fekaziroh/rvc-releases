@@ -2,6 +2,25 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.2.2 (experimental)
+
+Inclui tudo da 1.2.1.
+
+### Novidades
+- Céu que se mexe: as nuvens seguem o mouse e mudam de forma aos poucos.
+- Céu de dia com raios de luz entre as nuvens, passarinhos e avião; arco-íris quando a chuva para.
+- Gotas escorrendo no vidro na chuva e névoa passando na neblina e na garoa.
+- Recibo (entregue / visto) na lista de conversas.
+
+### Correções
+- Visto na sala aparecia quando só quem estava online tinha visto; agora só quando o grupo todo viu.
+- Cópias de teste contavam no visto.
+- Botão de GIF desalinhado.
+
+### Aparência e personalização
+- Céu em resolução cheia: estrelas e lua nítidas, lua com manchas.
+- Céu no botão direito do fundo.
+
 ## RVC! 1.2.1 (experimental)
 
 Inclui tudo da 1.2.0.
