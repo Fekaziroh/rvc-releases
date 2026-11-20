@@ -7,7 +7,7 @@ Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas com
 Inclui tudo da 1.2.1.
 
 ### Novidades
-- Temas novos: Acompanha o céu (o vidro pega a cor do céu da hora), Automático (Claro de dia, Escuro à noite) e Personalizado, com até 5 salvos.
+- Temas novos: Céu automático (o vidro pega a cor do céu da hora), Automático (Claro de dia, Escuro à noite) e Personalizado, com até 5 salvos.
 - Vidro fosco: com o fundo Céu, o céu aparece borrado atrás dos painéis.
 - Céu que se mexe: as nuvens seguem o mouse e mudam de forma aos poucos.
 - Céu de dia com raios de luz entre as nuvens, passarinhos e avião; arco-íris quando a chuva para.
@@ -26,7 +26,10 @@ Inclui tudo da 1.2.1.
 - Céu em resolução cheia: estrelas e lua nítidas, lua com manchas.
 - Estrelas brilhando uma de cada vez, com raios de luz.
 - Nuvens de dia mais claras.
-- Sons do app numa aba própria nas configurações.
+- Sons numa aba própria, com a lista inteira à mostra.
+- Aba do meio: Ao vivo, Mensagens novas, Eventos, Quem chegou e Relógio grande ligam e desligam um por um.
+- Céu parado: a mesma chave das bolhas (Céu mexendo).
+- Modo calmo separado do fundo no botão direito.
 - Céu no botão direito do fundo.
 
 ## RVC! 1.2.1 (experimental)
