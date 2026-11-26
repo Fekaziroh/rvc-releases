@@ -2,6 +2,23 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.2.4 (experimental)
+
+Inclui tudo da 1.2.3.
+
+### Novidades
+- Tela inicial: o app abre no início, com quatro estilos (Doca, Bolhas, Gadgets e XMB). A casinha ao lado do nome do grupo volta para ela.
+- Perfil com banner (imagem ou GIF), moldura da foto, fonte do nome e foto em GIF.
+- Gradientes no nome e no perfil, que os amigos também veem.
+- Status personalizado direto no menu de status.
+- Pacotes de sons: Aero, MSN, XMB, Cristal e Bolhas, ou um pacote para cada tipo de som.
+- Editor de imagem antes de mandar e ao criar figurinha: girar, espelhar, aproximar e tirar o fundo.
+
+### Aparência e personalização
+- Fundos novos: Colina, Onda XMB e Gradiente (prontos ou com as suas cores).
+- Luz suave seguindo o mouse.
+- Mensagens em bolhas (as suas à direita) ou no estilo MSN.
+
 ## RVC! 1.2.3 (experimental)
 
 Inclui tudo da 1.2.2.
