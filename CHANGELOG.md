@@ -2,6 +2,31 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.2.3 (experimental)
+
+Inclui tudo da 1.2.2.
+
+### Novidades
+- Clique no nome de um som (Configurações > Sons) para ouvir.
+- Prévia de links pode ser desligada em Aplicativo.
+
+### Correções
+- Live continuava com a imagem parada depois de fechar a janela transmitida.
+- Céu em faixas ao abrir o app pela bandeja.
+- Clicar no céu fazia som de bolha estourando.
+- Imagem pelo clipe era enviada sem confirmação.
+- Quem estava offline há mais de uma semana aparecia só com a data.
+
+### Segurança
+- Atualizações assinadas com uma chave nova, protegida por senha.
+- As janelas do app só abrem o próprio app.
+- Limite contra excesso de ligações, reações, edições e pedidos vindos de um mesmo PC.
+- A pasta de anexos recebidos para em 5 GB.
+- "Abrir com o Windows" vem desmarcado no primeiro uso.
+
+### Aparência e personalização
+- Chuva em camadas, com gotas mais bonitas no vidro.
+
 ## RVC! 1.2.2 (experimental)
 
 Inclui tudo da 1.2.1.
