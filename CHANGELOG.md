@@ -2,6 +2,33 @@
 
 Todas as versões do RVC, da mais nova para a mais antiga. Versões marcadas como *experimental* ainda estão em teste.
 
+## RVC! 1.2.5 (experimental)
+
+Inclui tudo da 1.2.4.
+
+### Novidades
+- Grupos nas conversas: crie em Conversas, escolha as pessoas e dê um nome.
+- Duração das chamadas na conversa.
+- Confirmação de leitura pode ser desligada (Aplicativo).
+- Caixa de texto: modelos novos ou a sua, com cores, borda, forma e brilho.
+- Rastro do mouse: Luz, Bolhas, Brilhos ou Folhas.
+- No estilo Doca, a doca continua no pé da tela dentro do servidor.
+
+### Aparência e personalização
+- Ícone novo.
+- Fundos Colina, Bolhas e Onda refeitos.
+- Início em doca mais limpo: saudação, data e hora, e a sua foto na doca abre as configurações.
+- Molduras novas, encaixadas na foto.
+- Chamada do servidor em pílulas de vidro, que dá para arrastar.
+- Transições entre o início e o servidor.
+- Conversa privada só com as mensagens.
+
+### Correções
+- Contorno escuro nos pontos de status em alguns temas.
+- Borda de quem fala piscando.
+- Chat embaixo cobria as pessoas em janela pequena.
+- Fim da lista de salas cortado.
+
 ## RVC! 1.2.4 (experimental)
 
 Inclui tudo da 1.2.3.
